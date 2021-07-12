@@ -169,9 +169,7 @@ hr{
     .player, .blog, .courses{
         flex-direction: column;
     }
-     .courses{
-        display: none;
-    }
+     
     
 }
 /* tablet divices */
